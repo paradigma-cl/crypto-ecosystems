@@ -12,6 +12,7 @@ sub_ecosystems = [
   "lnstxbridge",
   "synonymdev",
   "syvita-guild",
+  "CrossCheck",
 ]
 
 github_organizations = [
@@ -2624,6 +2625,9 @@ url = "https://github.com/Oyeins-GUI/nft"
 
 [[repo]]
 url = "https://github.com/paradigma-cl/stackscomponents"
+
+[[repo]]
+url = "https://github.com/paradigma-cl/dappprofile"
 
 [[repo]]
 url = "https://github.com/pgray-hiro/stacks-billboard"
